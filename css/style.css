@@ -23,6 +23,7 @@ h2 {
   }*/
 
 #tasks ul li:completed {
+    font-size: 12px;
   background: #ccc;
   text-decoration: underline;
 }
