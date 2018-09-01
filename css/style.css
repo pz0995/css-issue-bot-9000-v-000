@@ -17,16 +17,18 @@ h2 {
   font-style: italic;
 }
 
-/*
+
   .completed {
     font-size: 12px;
-  }*/
-
+    background: #ccc;
+    text-decoration: underline;
+  }
+/*
 #tasks ul li:completed {
     font-size: 12px;
   background: #ccc;
   text-decoration: underline;
-}
+}*/
 
 
 h1 {
