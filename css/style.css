@@ -19,17 +19,14 @@ h2 {
 
 
   .completed {
-        background: #ccc;
     font-size: 12px;
-
-    text-decoration: underline;
   }
-/*
+
 #tasks ul li:completed {
     font-size: 12px;
   background: #ccc;
   text-decoration: underline;
-}*/
+}
 
 
 h1 {
