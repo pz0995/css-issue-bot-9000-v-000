@@ -43,7 +43,7 @@ h2 {
   font-family: 12px;
 }
 
-.tasks  {
+#tasks > ul {
   background: #ccc;
   text-decoration: underline;
 }
