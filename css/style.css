@@ -43,8 +43,8 @@ h2 {
   font-family: 12px;
 }
 
-#tasks {
-  .completed
+#tasks ul li:completed{
+
   background: #ccc;
   text-decoration: underline;
 }
