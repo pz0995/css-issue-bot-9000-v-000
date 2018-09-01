@@ -39,13 +39,12 @@ h2 {
   font-weight: normal;
   font-style: italic;
 }
-/*
+
 .completed {
   font-family: 12px;
-}*/
+}
 
 #tasks ul li:completed {
-  font-family: 12px;
   background: #ccc;
   text-decoration: underline;
 }
