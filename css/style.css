@@ -43,7 +43,7 @@ h2 {
   font-family: 12px;
 }
 
-ul.tasks.completed {
+ul.tasks.completed li.selected {
   background: #CCC;
   text-decoration: underline;
 }
