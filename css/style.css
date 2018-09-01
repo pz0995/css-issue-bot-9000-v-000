@@ -40,10 +40,10 @@ h2 {
 }
 
 .completed {
-  font-size: 12px;
+  font-family: 12px;
 }
 
-#tasks ul {
+#tasks.completed ul {
   background: #CCC;
   text-decoration: underline;
 }
